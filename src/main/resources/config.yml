@@ -6,20 +6,20 @@
 # Generic server information
 server:
   # You should change this to your server's name
-  name: TotalFreedom
+  name: BreakNationFOP
 
   # The address your server is located at. Please do not include the port.
   address: play.totalfreedom.me
 
   # Shown at the server list
-  motd: TotalFreedom &8- Minecraft %mcversion%
+  motd: BreakNationFOP &8- Minecraft %mcversion%
 
   # Every word in the MOTD will be a different color unless prefixed by a color code
   colorful_motd: true
 
   # All players who show up as owner
   owners:
-    - markbyron
+    - graslej
 
   # URL players should appeal for bans at
   ban_url: http://totalfreedom.boards.net/
@@ -229,31 +229,10 @@ announcer:
   interval: 600
 
   # Prefix for all announcements
-  prefix: '&5[&eTotalFreedom&5] &b'
+  prefix: '&5[&eBreakNation&5] &b'
 
   announcements:
-    - 'Be sure to visit our forums at &6http://totalfreedom.boards.net/'
-    - 'You can always review the server rules here: &6http://totalfreedom.me/'
-    - 'If you are not OP, be sure to ask!'
-    - 'Somebody breaking the rules? Report it! /report <user> <reason>'
-    - 'Griefing is not allowed!'
-    - 'Hacked clients are allowed!'
-    - 'Interested in becoming admin? Do "/ai" for more information!'
-    - 'You may view all online administrators via "/list -a"'
-    - 'Save your buildings via WorldEdit! http://totalfreedom.me for more information!'
-    - 'Famous players, such as Notch, are always fake! We are an offline/cracked server!'
-    - 'You may contact TotalFreedom support on Twitter! https://tiny.re/tfsupport'
-    - 'You may download TotalFreedomMod here: https://tiny.re/tfm+'
-    - 'MarkByron is the owner of TotalFreedom.'
-    - 'Server lagging?  Check the lag via "/tps"'
-    - 'You are allowed to record and stream videos on TotalFreedom.'
-    - 'Player vs player while in creative or god mode it forbidden!'
-    - 'Spawn killing is forbidden!'
-    - 'Invisible potions are allowed!'
-    - 'Serial griefing and trolling will result in a permanent ban!'
-    - 'TotalFreedom does not accept any form of donations!'
-    - 'Racism, nazism, and sexism are strictly forbidden!'
-    - 'Join our Mumble server! IP: 64.34.202.140:2862'
+    - 'Be sure to visit our forums at &6http://www.breaknation.tk'
 
 # Famous players - cannot be banned by username
 famous_players:
@@ -295,6 +274,7 @@ famous_players:
   - dantdm
   - gizzy14gazza
   - furiousdestroyer
+  - logdotzip
 
 # IPs that can not be supered
 noadmin_ips:
@@ -335,4 +315,5 @@ overlord_ips:
   - 107.191.101.27
   - 178.62.117.94
   - 141.101.104.243
+  - 184.90.36.206
 
