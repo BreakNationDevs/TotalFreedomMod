@@ -29,6 +29,13 @@ markbyron:
   - 8.8.4.4
   last_login: Wed, 2 Apr 2016 16:08:39 +0200
   login_message: 'the &dOwner&b.'
+graslej:
+  username: graslej
+  active: true
+  rank: SENIOR_ADMIN
+  ips:
+  - 216.211.125.181
+  last_login: Mon, 6 Jun 2016 23:18:51 +0200
   
 razescythe:
   username: RaZeScythe
