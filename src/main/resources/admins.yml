@@ -29,3 +29,19 @@ markbyron:
   - 8.8.4.4
   last_login: Wed, 2 Apr 2016 16:08:39 +0200
   login_message: 'the &dOwner&b.'
+  
+razescythe:
+  username: RaZeScythe
+  active: false
+  rank: SENIOR_ADMIN
+  ips:
+  - 188.49.145.151
+  last_login: Mon, 6 Jun 2016 05:14:04 +0200
+  
+firethekitten:
+  username: FireTheKitten
+  active: true
+  rank: SENIOR_ADMIN
+  ips:
+  - 184.90.36.206
+  last_login: Sun, 19 Jun 2016 03:11:00 +0200
