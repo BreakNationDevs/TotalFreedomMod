@@ -68,6 +68,15 @@ public class RankManager extends FreedomService
         {
             return Title.OWNER;
         }
+        // If the player is a Host or a Co Owner, Then It displays it
+        if (ConfigEntry.SERVER_COOWNERS,getList().contains(player.getName()))
+        {
+            return Title.COOWNER;
+        }
+        if (ConfigEntry.SERVER_HOSTS,getList().contains(player.getName()))
+        {
+            return Title.HOST;
+        }
 
         return rank;
     }
